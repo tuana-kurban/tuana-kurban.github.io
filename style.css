@@ -1,0 +1,16 @@
+body{ 
+    background-color: bisque;
+}
+
+.titel {
+    text-align: center;
+    font-size: 100px;
+    color:blueviolet
+}
+.bodyimage {
+    width:500px;
+    height: 600px; 
+}
+.center {
+    text-align: center;
+}
